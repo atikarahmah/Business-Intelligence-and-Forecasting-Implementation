@@ -9,8 +9,9 @@ Namun, data-data ini masih tersebar dalam format yang belum terstruktur dan belu
 
 Proyek ini bertujuan untuk merancang dan mengimplementasikan sistem dashboard interaktif yang menyajikan informasi menyeluruh terkait operasional bandara, sekaligus menyertakan fitur forecasting (peramalan) berbasis data historis.
 
-**🧩 Ringkasan Proyek
-🔎 Permasalahan**
+**🧩 Ringkasan Proyek**
+
+**🔎 Permasalahan**
 
 Bandara belum memiliki sistem dashboard terintegrasi yang mampu menyajikan informasi operasional secara real-time dan prediktif, sehingga pengambilan keputusan kurang berbasis data historis dan tren.
 
@@ -70,4 +71,13 @@ Parameter:
 4. Aplikasi telah diuji oleh manajemen dan dapat digunakan sebagai dasar pengambilan keputusan operasional
 5. Berikut adalah link untuk melihat dashboard secara full screen : https://app.powerbi.com/view?r=eyJrIjoiNDI3YzQ3MDEtNDhmZi00NGZiLTg3OGItYjVkODdkN2RmMzU4IiwidCI6IjM0NjI3ODc0LWVkM2EtNDk3Yy04ZmI5LTE2Y2U3ZTk3NjRmMSIsImMiOjEwfQ%3D%3D
 
+**📫 Contact**
+
+Created by Atika Rahmah
+
+Universitas Andalas 
+
+For inquiries: atikachanita@outlook.co.id
+
+LinkedIn: linkedin.com/in/atika-rahmah/
 
